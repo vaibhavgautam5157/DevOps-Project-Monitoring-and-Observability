@@ -20,12 +20,7 @@ The goal is to:
 
 ---
 
-## 🧱 **Architecture Overview**
 
-<img width="963" height="832" alt="PortNumbers (1)" src="https://github.com/user-attachments/assets/0e310430-0c2e-4f8c-98a5-a87bec410fb3" />
-
-
----
 
 
 ### 🛠**1. Setting Up the Monitoring Environment**
